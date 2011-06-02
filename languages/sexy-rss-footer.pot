@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-02 16:38+0100\n"
+"PO-Revision-Date: 2011-06-02 16:38+0100\n"
+"Last-Translator: Evgeni Golov <evgeni@debian.org>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: sexy-rss-footer.php:54
+msgid "Sexy RSS Footer Options"
+msgstr ""
+
+#: sexy-rss-footer.php:55
+msgid "Sexy RSS Footer enables you to add any possible content at the end of every feed entry."
+msgstr ""
+
+#: sexy-rss-footer.php:56
+msgid "You can do something like:"
+msgstr ""
+
+#: sexy-rss-footer.php:57
+msgid "5 comment(s) | a post from your nice site by author"
+msgstr ""
+
+#: sexy-rss-footer.php:58
+msgid "with:"
+msgstr ""
+
+#: sexy-rss-footer.php:59
+msgid "{COMMENTS_COUNT} comments | a post from your nice site by {POST_AUTHOR}"
+msgstr ""
+
+#: sexy-rss-footer.php:80
+msgid "Footer Template"
+msgstr ""
+
+#: sexy-rss-footer.php:81
+msgid "Flattr Link"
+msgstr ""
+
+#: sexy-rss-footer.php:98
+msgid "The following variables will get replaced:"
+msgstr ""
+
+#: sexy-rss-footer.php:100
+msgid "variable"
+msgstr ""
+
+#: sexy-rss-footer.php:100
+msgid "replacement"
+msgstr ""
+
+#: sexy-rss-footer.php:100
+msgid "example"
+msgstr ""
+
+#: sexy-rss-footer.php:114
+msgid "The link to the flattr thing for this site."
+msgstr ""
+

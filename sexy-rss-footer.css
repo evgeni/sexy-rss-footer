@@ -1,0 +1,22 @@
+.srf_help_table td {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.srf_help_table span {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background-color: lightgrey;
+	padding: 2px 5px;
+}
+
+.srf_description {
+	padding-left: 1em;
+}
+
+#srf_footer_template,
+#srf_flattr_link {
+	float: left;
+	width: 40%;
+}
