@@ -1,4 +1,4 @@
-=== Sexy RSS Footer ==
+=== Sexy RSS Footer ===
 Contributors: zhenech
 Tags: rss, feed, footer, flattr, comments
 Requires at least: 2.8
@@ -6,7 +6,7 @@ Tested up to: 3.1.3
 Stable tag: 0.1
 
 Sexy RSS Footer enables you to add any possible content at the end of every feed entry.
-This includes variables like number of comments, post author etc.
+This includes variables like number of comments, author etc.
 
 == Description ==
 
